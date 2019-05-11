@@ -1,0 +1,31 @@
+{
+  "name": "ktbot01",
+  "version": "1.0.0",
+  "description": "Line BOt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kthos/ktbot01.git"
+  },
+  "author": "Nontawat",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kthos/ktbot01/issues"
+  },
+  "homepage": "https://github.com/kthos/ktbot01#readme",
+  "dependencies": {
+    "@line/bot-sdk": "^6.7.0",
+    "express": "^4.16.4"
+  }
+}
